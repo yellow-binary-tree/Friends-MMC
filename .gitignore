@@ -1,0 +1,7 @@
+**/snap
+**/__pycache__
+**/*.out
+**/*.log
+
+datasets
+csi/scripts
